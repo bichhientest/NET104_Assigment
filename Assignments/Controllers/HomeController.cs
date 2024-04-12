@@ -16,8 +16,27 @@ namespace Assignments.Controllers
 
         public IActionResult Index()
         {
-            var product = Db.TbProducts.ToList();
-            return View(product);
+            if (HttpContext.Session.GetString("Username") != null)
+            {
+                var product = Db.TbProducts.ToList();
+                return View(product);
+            }
+            else return RedirectToAction("Dangnhap");
+
+        }
+        public IActionResult Dangnhap()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Dangnhap(string Username, string Password)
+        {
+            if ((Username == "admin") && (Password == "123"))
+            {
+                HttpContext.Session.SetString("Username", "admin");
+                return RedirectToAction("Index");
+            }
+            else return View();
         }
 
         public IActionResult Cart()

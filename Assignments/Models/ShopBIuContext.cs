@@ -159,7 +159,7 @@ namespace Assignments.Models
                     .HasMaxLength(7)
                     .HasColumnName("Staff_Id");
 
-                entity.Property(e => e.Passwordx).HasMaxLength(55);
+                entity.Property(e => e.Password).HasMaxLength(55);
 
                 entity.Property(e => e.StaffName)
                     .HasMaxLength(55)

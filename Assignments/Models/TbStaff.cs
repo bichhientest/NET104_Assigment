@@ -8,6 +8,6 @@ namespace Assignments.Models
         public string StaffId { get; set; } = null!;
         public string? StaffName { get; set; }
         public string? Username { get; set; }
-        public string? Passwordx { get; set; }
+        public string? Password { get; set; }
     }
 }

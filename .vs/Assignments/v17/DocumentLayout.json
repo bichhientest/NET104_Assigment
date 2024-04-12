@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\shared\\indexs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\shared\\indexs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\models\\shopbiucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\models\\shopbiucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\models\\tbstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\models\\tbstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\models\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,20 +47,40 @@
       "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\models\\tbcartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\models\\shopbiucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\models\\shopbiucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\shared\\indexs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\shared\\indexs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\models\\tbcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\models\\tbcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|c:\\users\\lenovo\\downloads\\assignments\\assignments\\assignments\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{898ADDE6-D0DC-4B7F-9055-435D2AEB0B57}|Assignments\\Assignments.csproj|solutionrelative:assignments\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,19 +106,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignments\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\appsettings.json",
+              "RelativeToolTip": "Assignments\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T07:54:50.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dangnhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Home\\Dangnhap.cshtml",
+              "RelativeDocumentMoniker": "Assignments\\Views\\Home\\Dangnhap.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Home\\Dangnhap.cshtml",
+              "RelativeToolTip": "Assignments\\Views\\Home\\Dangnhap.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T06:48:37.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Program.cs",
+              "RelativeDocumentMoniker": "Assignments\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Program.cs",
+              "RelativeToolTip": "Assignments\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:41:05.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TbStaff.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Models\\TbStaff.cs",
               "RelativeDocumentMoniker": "Assignments\\Models\\TbStaff.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Models\\TbStaff.cs",
               "RelativeToolTip": "Assignments\\Models\\TbStaff.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T09:25:08.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "TbProduct.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Models\\TbProduct.cs",
               "RelativeDocumentMoniker": "Assignments\\Models\\TbProduct.cs",
@@ -118,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "TbCustomer.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Models\\TbCustomer.cs",
               "RelativeDocumentMoniker": "Assignments\\Models\\TbCustomer.cs",
@@ -130,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "TbCategory.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Models\\TbCategory.cs",
               "RelativeDocumentMoniker": "Assignments\\Models\\TbCategory.cs",
@@ -142,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "TbCartDetail.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Models\\TbCartDetail.cs",
               "RelativeDocumentMoniker": "Assignments\\Models\\TbCartDetail.cs",
@@ -154,19 +202,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Assignments\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Assignments\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAswBMAAAAhAAAA",
+              "ViewState": "AQIAABQAAAAAHo+0LzwmwB8AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T09:16:03.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Assignments\\Views\\_ViewStart.cshtml",
@@ -178,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Assignments\\Views\\_ViewImports.cshtml",
@@ -190,19 +238,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Assignments\\Views\\Shared\\Error.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Assignments\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBZwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-11T09:15:43.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Assignments\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -214,32 +262,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Indexs.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Shared\\Indexs.cshtml",
               "RelativeDocumentMoniker": "Assignments\\Views\\Shared\\Indexs.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Shared\\Indexs.cshtml",
               "RelativeToolTip": "Assignments\\Views\\Shared\\Indexs.cshtml",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAwIkAAAAfAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T08:54:58.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T08:54:58.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Home\\Cart.cshtml",
               "RelativeDocumentMoniker": "Assignments\\Views\\Home\\Cart.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Home\\Cart.cshtml",
               "RelativeToolTip": "Assignments\\Views\\Home\\Cart.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAIBJwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-11T08:51:13.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "TbCart.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Models\\TbCart.cs",
               "RelativeDocumentMoniker": "Assignments\\Models\\TbCart.cs",
@@ -251,43 +298,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "ShopBIuContext.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Models\\ShopBIuContext.cs",
               "RelativeDocumentMoniker": "Assignments\\Models\\ShopBIuContext.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Models\\ShopBIuContext.cs",
               "RelativeToolTip": "Assignments\\Models\\ShopBIuContext.cs",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAUwCMAAAAJAAAA",
+              "ViewState": "AQIAAJ4AAAAAAAAAAIAwwKcAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T08:43:39.059Z"
+              "WhenOpened": "2024-04-11T08:43:39.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Assignments\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Assignments\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "ViewState": "AQIAAAwAAAAA1kdHbQIpwAEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-11T02:00:18.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Assignments\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Assignments\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-10T21:55:00.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignments\\Assignments\\Assignments\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Assignments\\Views\\Home\\Details.cshtml",
